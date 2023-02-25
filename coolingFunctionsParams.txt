@@ -1,0 +1,10 @@
+linear_cooling
+2.6
+geometric_cooling
+1.4
+logarithmic_cooling
+hybrid_cooling
+3.56
+4.62
+exponential_cooling
+2.65
