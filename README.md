@@ -51,7 +51,7 @@ Our program currently works for cost functions having a domain of the form: [a, 
 
 ## Execution of the program
 
-The program needs a configuration file that needs to be passed in the terminal. The data in this file consistes on the parameters that the cooling functions need to be evaluated, and you can see an example of this file inside this project. Now, if for example, this config file is called "coolingFunctionsParams.txt", then, you only need to locate in the directory where the above modules, along with the mentioned config file is located, and run the command: 
+The program needs a configuration file that needs to be passed in the terminal. The data in this file consists on the parameters that the cooling functions need to be evaluated, and you can see an example of this file inside this project. Now, if for example, this config file is called "coolingFunctionsParams.txt", then, you only need to locate in the directory where the above modules, along with the mentioned config file is located, and run the command: 
 
            python annealingAlgo.py < coolingFunctionsParams.txt
  
