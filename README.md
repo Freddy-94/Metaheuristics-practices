@@ -65,4 +65,5 @@ Relevant functions:
 
 Example in 2 dimensions, with Linear cooling function:
 
-![alt text]()
+![alt text](https://github.com/Freddy-94/Metaheuristics-practices/blob/main/SimulatedAnnealingLinearCoolingFunLastEpochTempGraph2dim.jpeg)
+![alt text](https://github.com/Freddy-94/Metaheuristics-practices/blob/main/StatesvsCostsGraph2dim.png)
