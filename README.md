@@ -55,7 +55,8 @@ The program needs a configuration file that needs to be passed in the terminal. 
 
            python annealingAlgo.py < coolingFunctionsParams.txt
  
-Relevant functions:
+## Relevant functions:
+
 1. cost_function -> Cost function above
 2. random_start  -> Generate a random initial solution 
 3. random_neighbour   -> Generate a random "neighbour" solution
