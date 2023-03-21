@@ -1,0 +1,300 @@
+===========================================================================
+Average solution for experiment 1, for linear_cooling is: -1.1266970888702386
+Standard deviation for experiment 1, for linear_cooling is: 2.978490863849826
+Min solution for experiment 1, for linear_cooling is: -4.727164387104951
+Max solution for experiment 1, for linear_cooling is: -3.272246818771149e-06
+===========================================================================
+===========================================================================
+Average solution for experiment 1, for geometric_cooling is: -1.4161715704304316
+Standard deviation for experiment 1, for geometric_cooling is: 3.022617688105938
+Min solution for experiment 1, for geometric_cooling is: -4.3344014333808465
+Max solution for experiment 1, for geometric_cooling is: -0.27110620947825703
+===========================================================================
+===========================================================================
+Average solution for experiment 1, for logarithmic_cooling is: -1.032522260543685
+Standard deviation for experiment 1, for logarithmic_cooling is: 2.7957024907693357
+Min solution for experiment 1, for logarithmic_cooling is: -4.73021713425863
+Max solution for experiment 1, for logarithmic_cooling is: -1.2504911342145073e-07
+===========================================================================
+===========================================================================
+Average solution for experiment 1, for hybrid_cooling is: -1.5058669628038965
+Standard deviation for experiment 1, for hybrid_cooling is: 3.1067078670247814
+Min solution for experiment 1, for hybrid_cooling is: -4.314878677189631
+Max solution for experiment 1, for hybrid_cooling is: -1.0100623666924646
+===========================================================================
+===========================================================================
+Average solution for experiment 1, for exponential_cooling is: -1.5464328311701143
+Standard deviation for experiment 1, for exponential_cooling is: 3.145834524695483
+Min solution for experiment 1, for exponential_cooling is: -4.314878677189631
+Max solution for experiment 1, for exponential_cooling is: -0.9959528419943421
+===========================================================================
+===========================================================================
+Average solution for experiment 2, for linear_cooling is: -1.0756489078275886
+Standard deviation for experiment 2, for linear_cooling is: 3.033880290391479
+Min solution for experiment 2, for linear_cooling is: -4.7163671648084176
+Max solution for experiment 2, for linear_cooling is: -3.4846789654145105e-06
+===========================================================================
+===========================================================================
+Average solution for experiment 2, for geometric_cooling is: -1.9225693646256052
+Standard deviation for experiment 2, for geometric_cooling is: 4.051444085690206
+Min solution for experiment 2, for geometric_cooling is: -5.081604032411398
+Max solution for experiment 2, for geometric_cooling is: -0.6536971554677016
+===========================================================================
+===========================================================================
+Average solution for experiment 2, for logarithmic_cooling is: -1.1726842894180194
+Standard deviation for experiment 2, for logarithmic_cooling is: 3.0175003509415137
+Min solution for experiment 2, for logarithmic_cooling is: -5.081604032411398
+Max solution for experiment 2, for logarithmic_cooling is: -1.2301085107524933e-07
+===========================================================================
+===========================================================================
+Average solution for experiment 2, for hybrid_cooling is: -1.6074516881658711
+Standard deviation for experiment 2, for hybrid_cooling is: 3.745623149529545
+Min solution for experiment 2, for hybrid_cooling is: -4.898683702391623
+Max solution for experiment 2, for hybrid_cooling is: -0.6534923093037875
+===========================================================================
+===========================================================================
+Average solution for experiment 2, for exponential_cooling is: -1.261068285241741
+Standard deviation for experiment 2, for exponential_cooling is: 3.415692450917337
+Min solution for experiment 2, for exponential_cooling is: -4.898683702391623
+Max solution for experiment 2, for exponential_cooling is: -0.6542519885085278
+===========================================================================
+===========================================================================
+Average solution for experiment 3, for linear_cooling is: -1.1497114280868042
+Standard deviation for experiment 3, for linear_cooling is: 2.8843978296681447
+Min solution for experiment 3, for linear_cooling is: -4.838218619030692
+Max solution for experiment 3, for linear_cooling is: -1.3008171679357595e-06
+===========================================================================
+===========================================================================
+Average solution for experiment 3, for geometric_cooling is: -2.5688484273480143
+Standard deviation for experiment 3, for geometric_cooling is: 4.230258454010787
+Min solution for experiment 3, for geometric_cooling is: -3.681231758221855
+Max solution for experiment 3, for geometric_cooling is: -1.0314434263409733
+===========================================================================
+===========================================================================
+Average solution for experiment 3, for logarithmic_cooling is: -1.0495949328769807
+Standard deviation for experiment 3, for logarithmic_cooling is: 2.769910234781971
+Min solution for experiment 3, for logarithmic_cooling is: -3.8889500750345274
+Max solution for experiment 3, for logarithmic_cooling is: -1.7574076747607136e-07
+===========================================================================
+===========================================================================
+Average solution for experiment 3, for hybrid_cooling is: -2.5685503007317756
+Standard deviation for experiment 3, for hybrid_cooling is: 4.228664379454668
+Min solution for experiment 3, for hybrid_cooling is: -4.246105619625758
+Max solution for experiment 3, for hybrid_cooling is: -1.0875878941846042
+===========================================================================
+===========================================================================
+Average solution for experiment 3, for exponential_cooling is: -2.5424670408770442
+Standard deviation for experiment 3, for exponential_cooling is: 4.20204559721302
+Min solution for experiment 3, for exponential_cooling is: -4.246105619625758
+Max solution for experiment 3, for exponential_cooling is: -1.9581293826528892
+===========================================================================
+===========================================================================
+Average solution for experiment 4, for linear_cooling is: -1.0829892223024051
+Standard deviation for experiment 4, for linear_cooling is: 2.746929828145661
+Min solution for experiment 4, for linear_cooling is: -4.4769599385743755
+Max solution for experiment 4, for linear_cooling is: -1.7347673496408243e-09
+===========================================================================
+===========================================================================
+Average solution for experiment 4, for geometric_cooling is: -0.5479284089096701
+Standard deviation for experiment 4, for geometric_cooling is: 1.914575168668375
+Min solution for experiment 4, for geometric_cooling is: -2.4565556500513193
+Max solution for experiment 4, for geometric_cooling is: -0.2697912436997235
+===========================================================================
+===========================================================================
+Average solution for experiment 4, for logarithmic_cooling is: -1.022069517377526
+Standard deviation for experiment 4, for logarithmic_cooling is: 2.6081088777217065
+Min solution for experiment 4, for logarithmic_cooling is: -4.175553488270304
+Max solution for experiment 4, for logarithmic_cooling is: -5.360161028379642e-09
+===========================================================================
+===========================================================================
+Average solution for experiment 4, for hybrid_cooling is: -0.5729204234060515
+Standard deviation for experiment 4, for hybrid_cooling is: 1.937130111543983
+Min solution for experiment 4, for hybrid_cooling is: -2.8075106168462995
+Max solution for experiment 4, for hybrid_cooling is: -0.25757741571488657
+===========================================================================
+===========================================================================
+Average solution for experiment 4, for exponential_cooling is: -0.42257680662984526
+Standard deviation for experiment 4, for exponential_cooling is: 1.797868362760264
+Min solution for experiment 4, for exponential_cooling is: -2.8075106168462995
+Max solution for experiment 4, for exponential_cooling is: -0.27015815309113067
+===========================================================================
+===========================================================================
+Average solution for experiment 5, for linear_cooling is: -1.0470468816515588
+Standard deviation for experiment 5, for linear_cooling is: 2.7658445977254584
+Min solution for experiment 5, for linear_cooling is: -4.6194412080023675
+Max solution for experiment 5, for linear_cooling is: -2.483608081670562e-07
+===========================================================================
+===========================================================================
+Average solution for experiment 5, for geometric_cooling is: -2.2188610448805957
+Standard deviation for experiment 5, for geometric_cooling is: 3.972515355945864
+Min solution for experiment 5, for geometric_cooling is: -4.166199018890521
+Max solution for experiment 5, for geometric_cooling is: -0.861601002301942
+===========================================================================
+===========================================================================
+Average solution for experiment 5, for logarithmic_cooling is: -1.0513063283379556
+Standard deviation for experiment 5, for logarithmic_cooling is: 2.7223162685832207
+Min solution for experiment 5, for logarithmic_cooling is: -4.563963288772627
+Max solution for experiment 5, for logarithmic_cooling is: -1.8550328088330847e-10
+===========================================================================
+===========================================================================
+Average solution for experiment 5, for hybrid_cooling is: -2.2813810518263926
+Standard deviation for experiment 5, for hybrid_cooling is: 4.027037879233215
+Min solution for experiment 5, for hybrid_cooling is: -4.49610884524396
+Max solution for experiment 5, for hybrid_cooling is: -1.4480384025649293
+===========================================================================
+===========================================================================
+Average solution for experiment 5, for exponential_cooling is: -2.065413792123869
+Standard deviation for experiment 5, for exponential_cooling is: 3.7995019836921817
+Min solution for experiment 5, for exponential_cooling is: -5.631181813026496
+Max solution for experiment 5, for exponential_cooling is: -1.7125205847718368
+===========================================================================
+===========================================================================
+Average solution for experiment 6, for linear_cooling is: -1.049891091338797
+Standard deviation for experiment 6, for linear_cooling is: 2.8998193760845106
+Min solution for experiment 6, for linear_cooling is: -4.595928550246556
+Max solution for experiment 6, for linear_cooling is: -1.2742652650585373e-06
+===========================================================================
+===========================================================================
+Average solution for experiment 6, for geometric_cooling is: -1.3622792126991525
+Standard deviation for experiment 6, for geometric_cooling is: 3.153079228900177
+Min solution for experiment 6, for geometric_cooling is: -3.646662033440335
+Max solution for experiment 6, for geometric_cooling is: -0.3189316168456553
+===========================================================================
+===========================================================================
+Average solution for experiment 6, for logarithmic_cooling is: -0.967416302193505
+Standard deviation for experiment 6, for logarithmic_cooling is: 2.7236267035924167
+Min solution for experiment 6, for logarithmic_cooling is: -4.316132233557251
+Max solution for experiment 6, for logarithmic_cooling is: -3.8223016020358575e-07
+===========================================================================
+===========================================================================
+Average solution for experiment 6, for hybrid_cooling is: -1.5140095977116237
+Standard deviation for experiment 6, for hybrid_cooling is: 3.2976984428594798
+Min solution for experiment 6, for hybrid_cooling is: -4.0966679953934255
+Max solution for experiment 6, for hybrid_cooling is: -0.32920239816049157
+===========================================================================
+===========================================================================
+Average solution for experiment 6, for exponential_cooling is: -1.202717405343221
+Standard deviation for experiment 6, for exponential_cooling is: 3.002199680192121
+Min solution for experiment 6, for exponential_cooling is: -4.737832068095096
+Max solution for experiment 6, for exponential_cooling is: -0.3260434304755179
+===========================================================================
+===========================================================================
+Average solution for experiment 7, for linear_cooling is: -0.9768507863160923
+Standard deviation for experiment 7, for linear_cooling is: 2.3867670208534206
+Min solution for experiment 7, for linear_cooling is: -4.270513669365153
+Max solution for experiment 7, for linear_cooling is: -8.38565735461791e-09
+===========================================================================
+===========================================================================
+Average solution for experiment 7, for geometric_cooling is: -1.35607063495833
+Standard deviation for experiment 7, for geometric_cooling is: 2.4825645481191825
+Min solution for experiment 7, for geometric_cooling is: -3.986398384837264
+Max solution for experiment 7, for geometric_cooling is: -0.4604276539172907
+===========================================================================
+===========================================================================
+Average solution for experiment 7, for logarithmic_cooling is: -0.9634403357377022
+Standard deviation for experiment 7, for logarithmic_cooling is: 2.547544187967322
+Min solution for experiment 7, for logarithmic_cooling is: -4.282012498674056
+Max solution for experiment 7, for logarithmic_cooling is: -5.487639349957762e-08
+===========================================================================
+===========================================================================
+Average solution for experiment 7, for hybrid_cooling is: -1.4753306881191988
+Standard deviation for experiment 7, for hybrid_cooling is: 2.593291411472857
+Min solution for experiment 7, for hybrid_cooling is: -4.064733898041101
+Max solution for experiment 7, for hybrid_cooling is: -0.46143159498860153
+===========================================================================
+===========================================================================
+Average solution for experiment 7, for exponential_cooling is: -1.6270127787085582
+Standard deviation for experiment 7, for exponential_cooling is: 2.7305731977638454
+Min solution for experiment 7, for exponential_cooling is: -4.148804801169956
+Max solution for experiment 7, for exponential_cooling is: -0.44347477700260296
+===========================================================================
+===========================================================================
+Average solution for experiment 8, for linear_cooling is: -0.9368059860701907
+Standard deviation for experiment 8, for linear_cooling is: 2.727844403762336
+Min solution for experiment 8, for linear_cooling is: -4.974026562465038
+Max solution for experiment 8, for linear_cooling is: -1.4473672152120155e-09
+===========================================================================
+===========================================================================
+Average solution for experiment 8, for geometric_cooling is: -1.943980644646478
+Standard deviation for experiment 8, for geometric_cooling is: 3.6959377176573107
+Min solution for experiment 8, for geometric_cooling is: -4.2694679299209515
+Max solution for experiment 8, for geometric_cooling is: -1.1994599330995501
+===========================================================================
+===========================================================================
+Average solution for experiment 8, for logarithmic_cooling is: -1.1144678779907686
+Standard deviation for experiment 8, for logarithmic_cooling is: 2.8058216168558614
+Min solution for experiment 8, for logarithmic_cooling is: -4.9525569697838545
+Max solution for experiment 8, for logarithmic_cooling is: -3.796419910706927e-09
+===========================================================================
+===========================================================================
+Average solution for experiment 8, for hybrid_cooling is: -1.934450184350332
+Standard deviation for experiment 8, for hybrid_cooling is: 3.6881666269608027
+Min solution for experiment 8, for hybrid_cooling is: -4.157001278284415
+Max solution for experiment 8, for hybrid_cooling is: -0.8979588041663302
+===========================================================================
+===========================================================================
+Average solution for experiment 8, for exponential_cooling is: -1.9473095750656386
+Standard deviation for experiment 8, for exponential_cooling is: 3.6963304021861765
+Min solution for experiment 8, for exponential_cooling is: -4.944411173497384
+Max solution for experiment 8, for exponential_cooling is: -1.1932462853768269
+===========================================================================
+===========================================================================
+Average solution for experiment 9, for linear_cooling is: -1.0117787094033646
+Standard deviation for experiment 9, for linear_cooling is: 2.6099194502705854
+Min solution for experiment 9, for linear_cooling is: -4.551123125914765
+Max solution for experiment 9, for linear_cooling is: -3.628894690481352e-10
+===========================================================================
+===========================================================================
+Average solution for experiment 9, for geometric_cooling is: -1.460668543132819
+Standard deviation for experiment 9, for geometric_cooling is: 2.8808449533865677
+Min solution for experiment 9, for geometric_cooling is: -3.867037015747754
+Max solution for experiment 9, for geometric_cooling is: -0.5983485107142211
+===========================================================================
+===========================================================================
+Average solution for experiment 9, for logarithmic_cooling is: -1.0651038204537724
+Standard deviation for experiment 9, for logarithmic_cooling is: 2.6924391007523534
+Min solution for experiment 9, for logarithmic_cooling is: -4.960014512651287
+Max solution for experiment 9, for logarithmic_cooling is: -5.298832027222318e-07
+===========================================================================
+===========================================================================
+Average solution for experiment 9, for hybrid_cooling is: -1.4116195818291586
+Standard deviation for experiment 9, for hybrid_cooling is: 2.829157486728509
+Min solution for experiment 9, for hybrid_cooling is: -3.3230812361193753
+Max solution for experiment 9, for hybrid_cooling is: -0.59719431802987
+===========================================================================
+===========================================================================
+Average solution for experiment 9, for exponential_cooling is: -1.3043446589322598
+Standard deviation for experiment 9, for exponential_cooling is: 2.7266102592188597
+Min solution for experiment 9, for exponential_cooling is: -4.031500772516258
+Max solution for experiment 9, for exponential_cooling is: -0.6018648053004205
+===========================================================================
+===========================================================================
+Average solution for experiment 10, for linear_cooling is: -1.0911413540836823
+Standard deviation for experiment 10, for linear_cooling is: 2.8228992398666493
+Min solution for experiment 10, for linear_cooling is: -4.640756839528096
+Max solution for experiment 10, for linear_cooling is: -1.3893863788797405e-07
+===========================================================================
+===========================================================================
+Average solution for experiment 10, for geometric_cooling is: -1.8152912423052185
+Standard deviation for experiment 10, for geometric_cooling is: 3.6265109530475645
+Min solution for experiment 10, for geometric_cooling is: -4.072915408452903
+Max solution for experiment 10, for geometric_cooling is: -1.087175987022544
+===========================================================================
+===========================================================================
+Average solution for experiment 10, for logarithmic_cooling is: -0.9391632998275553
+Standard deviation for experiment 10, for logarithmic_cooling is: 2.6156839200696287
+Min solution for experiment 10, for logarithmic_cooling is: -4.6657576172915025
+Max solution for experiment 10, for logarithmic_cooling is: -3.41816825124627e-09
+===========================================================================
+===========================================================================
+Average solution for experiment 10, for hybrid_cooling is: -1.7986722295525917
+Standard deviation for experiment 10, for hybrid_cooling is: 3.609907732589891
+Min solution for experiment 10, for hybrid_cooling is: -3.5731107475396198
+Max solution for experiment 10, for hybrid_cooling is: -0.33367453240837713
+===========================================================================
+===========================================================================
+Average solution for experiment 10, for exponential_cooling is: -1.7375543120442094
+Standard deviation for experiment 10, for exponential_cooling is: 3.557060844760074
+Min solution for experiment 10, for exponential_cooling is: -4.0668406364336995
+Max solution for experiment 10, for exponential_cooling is: -1.0921851008729664
+===========================================================================
