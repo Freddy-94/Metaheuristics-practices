@@ -34,7 +34,7 @@ $$
 
 $$ T_{k} = \frac{T_{k-1}}{1 + \beta T_{k-1}} $$
 
-Although our algorithm is used in a function that takes real values in its domain variables, this same algorithm can be adjusted, so it can be used to found approximate solutions to the quadratic assignment problem (https://en.wikipedia.org/wiki/Quadratic_assignment_problem). Please take a look at:  to see how we found approximate solutions for problems of size 9!, 12!, 15!, and 30!. 
+Although our algorithm is used in a function that takes real values in its domain variables, this same algorithm can be adjusted, so it can be used to found approximate solutions to the quadratic assignment problem (https://en.wikipedia.org/wiki/Quadratic_assignment_problem). Please take a look at: https://github.com/Freddy-94/Simulated-Annealing-Algorithm-Integer-Vars-Case to see how we found approximate solutions for problems of size 9!, 12!, 15!, and 30!. 
 
 
 Our program consists of 3 different files:
